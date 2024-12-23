@@ -9,14 +9,14 @@ If you're new to programming, it is **highly recommended that you start on the i
 	
 ## Intro Assignment
 
-Knowing programming is not a prerequisite for this course, but having experience with some of the basic concepts will help things move a little more smoothly. We will not be assuming prior knowledge for the class, so don't worry if its all new to you. **If you're new to coding, we highly encourage you to complete the Introduction (Chapters 1-8) and start on Conditions & Debugging (Chapters 11-14) of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/) before the class starts.**  
+Knowing programming is not a prerequisite for this course, but having experience with some of the basic concepts will help things move a little more smoothly. We will not be assuming prior knowledge for the class, so don't worry if its all new to you. **If you're new to coding, we highly encourage you to complete Chapters 1-27 of [Python's Not (Just) For Unicorns](http://littlecolumns.com/learn/python/) before the class starts.**  
 
-- Chapters 1-8, Introduction **[Due by Tues. Jan 2]**
-- Chapters 11-14, Conditions & Debugging **[Due by Fri. Jan 5]**
-- Chapters 16-22, Lists & Loops **[Due by Sun. Jan 7]**
-- Chapters 24-27, Dictionaries **[Due by Tues. Jan 9]**
+- Chapters 1-8, Introduction 
+- Chapters 11-14, Conditions & Debugging 
+- Chapters 16-22, Lists & Loops
+- Chapters 24-27, Dictionaries 
 
-While only the introduction is due on the second day of class, if you're feeling good, feel free to keep going! **Completing this assignment ahead of time will allow you to stay focused on the core content of the class during the J-term.**
+We'd like if all of the Chapters were completed by the start of class. **Completing this assignment ahead of time will allow you to stay focused on the core content of the class during the J-term.**
 
 ### A note about the assignment
 > While the pre-work is a Python tutorial, **this isn't a Python class**. We will encounter various technologies in the course, but this tutorial should help you get in the mindset of learning code. It will help you:
