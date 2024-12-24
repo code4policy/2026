@@ -1,4 +1,4 @@
-# DPI-691M: Programming and Data for Policymakers (January 2024)
+# DPI-691M: Programming and Data for Policymakers (January 2025)
 
 **Instructors:** Dhrumil Mehta <Dhrumil_Mehta@hks.harvard.edu> & Aarushi Sahejpal <asahejpal@hks.harvard.edu>
 
