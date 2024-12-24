@@ -16,7 +16,7 @@ Knowing programming is not a prerequisite for this course, but having experience
 - Chapters 16-22, Lists & Loops
 - Chapters 24-27, Dictionaries 
 
-We'd like if all of the Chapters were completed by the start of class. **Completing this assignment ahead of time will allow you to stay focused on the core content of the class during the J-term.**
+We'd like if all of the Chapters are completed by the start of class. **Completing this assignment ahead of time will allow you to stay focused on the core content of the class during the J-term.**
 
 ### A note about the assignment
 > While the pre-work is a Python tutorial, **this isn't a Python class**. We will encounter various technologies in the course, but this tutorial should help you get in the mindset of learning code. It will help you:
