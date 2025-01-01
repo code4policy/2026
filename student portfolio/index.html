@@ -1,0 +1,1010 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Project Portfolio</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+
+        body {
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            background-color: #f5f5f5;
+        }
+
+        /* Main content wrapper */
+        .content-wrapper {
+            flex: 1;
+        }
+
+        /* Replace grid with flex */
+        .projects-grid {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2rem;
+            padding: 2rem;
+            max-width: 1200px;
+            margin: 0 auto;
+            justify-content: center;
+        }
+
+        .project-card {
+            flex: 0 1 380px;  /* Don't grow, can shrink, base width 350px */
+            min-width: 300px;
+            max-width: 400px;
+            background-color: white;
+            border-radius: 8px;
+            overflow: hidden;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            transition: transform 0.3s;
+        }
+
+        .project-image {
+            min-width: 100%;
+            height: 320px;
+            min-height: 320px;
+            object-fit: cover;
+            background-color: #f0f0f0;
+        }
+
+        /* No results message styling */
+        .no-results {
+            text-align: center;
+            padding: 3rem;
+            width: 100%;
+            display: none;
+        }
+
+        .no-results i {
+            font-size: 4rem;
+            color: #3498db;
+            margin-bottom: 1rem;
+        }
+
+        .no-results p {
+            color: #666;
+            font-size: 1.2rem;
+        }
+
+        /* Footer positioning */
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            padding: 2rem;
+            margin-top: auto;  /* Push footer to bottom */
+            text-align: center;
+        }
+
+        
+
+        nav {
+            background-color: #2c3e50;
+            padding: 1rem 2rem;
+            display: flex;
+            justify-content: flex-end;
+            align-items: center;
+        }
+
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: 500;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+        }
+
+        nav a:hover {
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 3rem 2rem;
+            text-align: center;
+        }
+
+        header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 1rem;
+        }
+
+        .main-subtitle {
+            font-size: 1.25rem;
+            color: #3498db;
+            margin-bottom: 2rem;
+        }
+
+        .header-content {
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .header-description {
+            font-size: 1.1rem;
+            line-height: 1.6;
+            margin-bottom: 2rem;
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        .key-highlights {
+            display: flex;
+            justify-content: center;
+            gap: 3rem;
+            margin-top: 2rem;
+        }
+
+        .highlight {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .highlight i {
+            font-size: 2rem;
+            color: #3498db;
+        }
+
+        .highlight span {
+            font-size: 1rem;
+            color: rgba(255, 255, 255, 0.9);
+        }
+
+        @media (max-width: 768px) {
+            .key-highlights {
+                flex-direction: column;
+                gap: 1.5rem;
+            }
+        }
+
+        .filters {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            padding: 1rem;
+            background-color: white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .filter-btn {
+            padding: 0.5rem 1rem;
+            border: none;
+            border-radius: 4px;
+            background-color: #ecf0f1;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .filter-btn.active {
+            background-color: #3498db;
+            color: white;
+        }
+
+        .project-card:hover {
+            transform: translateY(-5px);
+        }
+
+        .project-info {
+            padding: 1.5rem;
+        }
+
+        .project-title {
+            font-size: 1.25rem;
+            margin-bottom: 0.5rem;
+            color: #2c3e50;
+        }
+
+        .project-year {
+            display: inline-block;
+            padding: 0.25rem 0.5rem;
+            background-color: #3498db;
+            color: white;
+            border-radius: 4px;
+            font-size: 0.875rem;
+            margin-bottom: 1rem;
+        }
+
+        .project-tags {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin-bottom: 1rem;
+        }
+
+        .project-tag {
+            padding: 0.25rem 0.75rem;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            background-color: #e1f5fe;
+            color: #0277bd;
+        }
+
+        .filter-section {
+            padding: 1rem;
+            background-color: white;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .filter-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 1.5rem;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .filter-group {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+        }
+
+        .filter-label {
+            color: #2c3e50;
+            font-weight: 500;
+            margin-right: 0.5rem;
+        }
+
+        .filter-divider {
+            width: 1px;
+            height: 24px;
+            background-color: #e0e0e0;
+        }
+
+        /* Make the responsive layout better */
+        @media (max-width: 768px) {
+            .filter-container {
+                flex-direction: column;
+                gap: 1rem;
+            }
+            
+            .filter-divider {
+                width: 100%;
+                height: 1px;
+                margin: 0.5rem 0;
+            }
+        }
+
+        
+
+        .resources-section {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 2rem;
+            line-height: 1.8;
+            display: none;
+        }
+
+        .resources-section.active {
+            display: block;
+        }
+
+        .resource-group {
+            margin-bottom: 2rem;
+        }
+
+        .resource-group h2 {
+            color: #2c3e50;
+            margin-bottom: 1rem;
+        }
+
+        .resource-list {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1rem;
+        }
+
+        .resource-card {
+            background-color: white;
+            padding: 1.5rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .resource-card h3 {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+
+        .resource-card p {
+            color: #666;
+            font-size: 0.9rem;
+            margin-bottom: 1rem;
+        }
+
+        .resource-card a {
+            color: #3498db;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .project-description {
+            color: #666;
+            margin-bottom: 1rem;
+            line-height: 1.5;
+        }
+
+        .project-links {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .project-link {
+            text-decoration: none;
+            color: #3498db;
+            font-weight: 500;
+        }
+
+        .about-section {
+            max-width: 1000px;
+            margin: 2rem auto;
+            padding: 2rem;
+            line-height: 1.8;
+            display: none;
+        }
+        
+        .about-section h1 {
+            color: #2c3e50;
+            margin-bottom: 1.5rem;
+            text-align: center;
+        }
+        
+        .about-section h2 {
+            color: #2c3e50;
+            margin: 2rem 0 1rem 0;
+        }
+        
+        .about-section p {
+            color: #444;
+            margin-bottom: 1.5rem;
+            font-size: 1.1rem;
+        }
+        
+        .about-section ul {
+            margin-left: 2rem;
+            margin-bottom: 1.5rem;
+            color: #444;
+        }
+        
+        .about-section li {
+            margin-bottom: 0.5rem;
+        }
+        
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            padding: 2rem;
+            margin-top: 4rem;
+            text-align: center;
+        }
+        
+        footer p {
+            margin: 0.5rem 0;
+        }
+        
+        .footer-links {
+            margin-top: 1rem;
+        }
+        
+        .footer-links a {
+            color: white;
+            text-decoration: none;
+            margin: 0 1rem;
+            transition: opacity 0.3s;
+        }
+        
+        .footer-links a:hover {
+            opacity: 0.8;
+        }
+
+        .about-section.active {
+            display: block;
+        }
+
+        .about-section h2 {
+            color: #2c3e50;
+            margin-bottom: 1rem;
+        }
+
+        .about-section p {
+            color: #666;
+            line-height: 1.6;
+            margin-bottom: 1rem;
+        }
+
+        .tech-tag {
+        padding: 0.25rem 0.75rem;
+        border-radius: 15px;
+        font-size: 0.8rem;
+        background-color: #e1f5fe;
+        color: #0277bd;
+        margin-right: 0.5rem;
+        margin-bottom: 0.5rem;
+        }
+
+        .project-details {
+            margin-top: 1.5rem;
+        }
+
+        .project-details h4 {
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            margin-bottom: 1.5rem;
+        }
+
+        .contributors-list {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .contributor {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0.5rem;
+            background-color: #f8f9fa;
+            border-radius: 4px;
+        }
+
+        .contributor-info {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .contributor-name {
+            font-weight: 500;
+            color: #2c3e50;
+        }
+
+        .contributor-role {
+            font-size: 0.875rem;
+            color: #666;
+        }
+
+        .contributor-links {
+            display: flex;
+            gap: 1rem;
+        }
+
+        .contributor-links a {
+            color: #3498db;
+            text-decoration: none;
+            font-size: 0.875rem;
+        }
+
+        .project-meta {
+            font-size: 0.875rem;
+            color: #666;
+        }
+
+        .project-status {
+            padding: 0.25rem 0.75rem;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            background-color: #e8f5e9;
+            color: #2e7d32;
+            min-width: 90px;
+        }
+
+        .project-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        @media (max-width: 768px) {
+            .filters {
+                flex-wrap: wrap;
+            }
+            
+            .projects-grid {
+                grid-template-columns: 1fr;
+                padding: 1rem;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lucide-icons@0.16.29/dist/lucide.min.css">
+
+</head>
+<script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+<body>
+    <div class="content-wrapper">
+        <nav>
+            <a href="#" id="projectsLink">Projects</a>
+            <a href="#" id="resourcesLink">Resources</a>
+            <a href="#" id="aboutLink">About</a>
+        </nav>
+
+        <div id="projectsSection">
+            <header>
+                <h1>DPI-691M Student Projects</h1>
+                <p class="main-subtitle">Exploring policy solutions through technology</p>
+                <div class="header-content">
+                    <p class="header-description">Welcome to the Harvard Kennedy School's showcase of student-led technology projects. Through DPI-691M: Programming and Data for Policymakers, students develop innovative solutions at the intersection of public policy and technology.</p>
+                    <div class="key-highlights">
+                        <div class="highlight">
+                            <i data-lucide="code"></i>
+                            <span>Real-world Applications</span>
+                        </div>
+                        <div class="highlight">
+                            <i data-lucide="users"></i>
+                            <span>Cross-disciplinary Teams</span>
+                        </div>
+                        <div class="highlight">
+                            <i data-lucide="git-branch"></i>
+                            <span>Open Source</span>
+                        </div>
+                    </div>
+                </div>
+            </header>
+
+            <div class="filter-section">
+                <div class="filter-container">
+                    <div class="filter-group">
+                        <span class="filter-label">Year:</span>
+                        <button class="filter-btn active" data-year="all">All Years</button>
+                        <button class="filter-btn" data-year="2025">2025</button>
+                        <button class="filter-btn" data-year="2024">2024</button>
+                        <button class="filter-btn" data-year="2023">2023</button>
+                    </div>
+                    <div class="filter-divider"></div>
+                    <div class="filter-group">
+                        <span class="filter-label">Topic:</span>
+                        <button class="filter-btn" data-category="all">All Topics</button>
+                        <button class="filter-btn" data-category="healthcare">Healthcare</button>
+                        <button class="filter-btn" data-category="climate">Climate</button>
+                        <button class="filter-btn" data-category="education">Education</button>
+                        <button class="filter-btn" data-category="civic">Civic Tech</button>
+                    </div>
+                </div>
+            </div>
+
+            <div class="projects-grid" id="projectsGrid">
+                <div class="no-results" id="noResults">
+                    <i data-lucide="search"></i>
+                    <p>No projects found matching your filters</p>
+                </div>
+            </div>
+        </div>
+
+        <div id="resourcesSection" class="resources-section">
+            <h1>Course Resources</h1>
+            
+            <div class="resource-group">
+                <h2>Required Books</h2>
+                <div class="resource-list">
+                    <div class="resource-card">
+                        <h3>The Elements of Scrum</h3>
+                        <p>Essential guide to understanding Scrum methodology</p>
+                        <a href="https://www.amazon.com/Elements-Scrum-Chris-Sims/dp/0982866917" target="_blank">View on Amazon</a>
+                    </div>
+                    <div class="resource-card">
+                        <h3>Scrum: A Breathtakingly Brief And Agile Introduction</h3>
+                        <p>Quick introduction to Agile and Scrum concepts</p>
+                        <a href="https://www.amazon.com/dp/B007P5N8D4/" target="_blank">View on Amazon</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="resource-group">
+                <h2>Course Materials</h2>
+                <div class="resource-list">
+                    <div class="resource-card">
+                        <h3>Course GitHub</h3>
+                        <p>Access course materials, examples, and submit assignments</p>
+                        <a href="#" target="_blank">Visit Repository</a>
+                    </div>
+                    <div class="resource-card">
+                        <h3>Command Line Guide</h3>
+                        <p>Reference for essential Unix commands</p>
+                        <a href="#" target="_blank">View Guide</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="aboutSection" class="about-section">
+            <h1>DPI-691M: Programming and Data for Policymakers</h1>
+            
+            <h2>Course Overview</h2>
+            <p>Data and code are no longer just for programmers. Policymakers from members of congress to analysts and executives need to be equipped with the necessary skills to navigate government in the 21st century. This course is built with the understanding that hands-on experience with programming, data software development, and management methods, open source collaboration, and technology innovation will better prepare students to competently navigate technology projects and nuanced issues at the intersection of technology and governance than a theoretical understanding alone.</p>
+            
+            <h2>Course Philosophy</h2>
+            <ul>
+                <li>Rolling up their sleeves and writing some code will give students a sense of what all the basic parts of software are and how they fit together.</li>
+                <li>Practical programming and data skills can allow policymakers to be more self-sufficient with regards to basic programming, data collection, and analysis.</li>
+                <li>Participating in the ecosystem of open source software and understanding the spirit of transparency, civic technology, and agile software development methods.</li>
+                <li>Students will become familiar with modern programming technologies and overcome the initial uphill battle that comes before learning to code.</li>
+            </ul>
+            
+            <h2>Project Focus</h2>
+            <p>All exercises in the course build towards developing a project that uses the skills learned to deploy a small dynamic web application. Projects are done in small groups, with each group arranged into a "scrum" team. Individual contributions are tracked via GitHub to ensure participation, and groups communicate over Slack.</p>
+            
+            <h2>What We Cover</h2>
+            <ul>
+                <li>Fundamentals of Unix and the Command Line</li>
+                <li>Github and open source collaboration</li>
+                <li>Web fundamentals (HTTP, HTML/CSS/Javascript)</li>
+                <li>Data collection via APIs and web-scraping</li>
+                <li>Data cleaning and manipulation</li>
+                <li>Visualizing Data for the Web</li>
+                <li>Building and deploying Web Applications</li>
+            </ul>
+            
+            <h2>Instructors</h2>
+            <p>Dhrumil Mehta (Dhrumil_Mehta@hks.harvard.edu)<br>
+            Aarushi Sahejpal (asahejpal@hks.harvard.edu)</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>DPI-691M: Programming and Data for Policymakers</p>
+        <p>Harvard Kennedy School - January 2025</p>
+        <div class="footer-links">
+            <a href="mailto:Dhrumil_Mehta@hks.harvard.edu">Contact Professor Mehta</a>
+            <a href="mailto:asahejpal@hks.harvard.edu">Contact Professor Sahejpal</a>
+        </div>
+    </footer>
+
+    <script>
+        // Updated project data with categories
+        const projects = [
+            {
+                title: "Healthcare Data Analytics Platform",
+                year: "2025",
+                category: "healthcare",
+                description: "Analytics dashboard for healthcare policy metrics and outcomes tracking",
+                tags: ["Healthcare", "Data Visualization", "Analytics"],
+                image: "/api/placeholder/400/320",
+                demo: "#",
+                code: "#",
+                contributors: [
+                    {
+                        name: "Jane Smith",
+                        role: "Lead Developer",
+                        github: "jsmith",
+                        linkedin: "jane-smith"
+                    },
+                    {
+                        name: "Alex Johnson",
+                        role: "Data Scientist",
+                        github: "alexj",
+                        linkedin: "alex-johnson"
+                    }
+                ],
+                technologies: ["Python", "React", "D3.js"],
+                semester: "January 2025",
+                status: "In Progress"
+            },
+            {
+                title: "Climate Impact Tracker",
+                year: "2025",
+                category: "climate",
+                description: "Real-time monitoring system for urban environmental metrics and policy impact analysis",
+                tags: ["Climate", "Environmental Policy", "Real-time Data"],
+                image: "/api/placeholder/400/320",
+                demo: "#",
+                code: "#",
+                contributors: [
+                    {
+                        name: "Maria Garcia",
+                        role: "Full Stack Developer",
+                        github: "mgarcia",
+                        linkedin: "maria-garcia"
+                    }
+                ],
+                technologies: ["Node.js", "Vue.js", "MongoDB"],
+                semester: "January 2025",
+                status: "In Progress"
+            },
+            {
+                title: "Education Resource Allocator",
+                year: "2024",
+                category: "education",
+                description: "AI-powered system for optimizing educational resource distribution in school districts",
+                tags: ["Education", "Machine Learning", "Resource Management"],
+                image: "/api/placeholder/400/320",
+                demo: "#",
+                code: "#",
+                contributors: [
+                    {
+                        name: "David Kim",
+                        role: "ML Engineer",
+                        github: "dkim",
+                        linkedin: "david-kim"
+                    },
+                    {
+                        name: "Lisa Chen",
+                        role: "Education Policy Analyst",
+                        github: "lchen",
+                        linkedin: "lisa-chen"
+                    }
+                ],
+                technologies: ["Python", "TensorFlow", "FastAPI"],
+                semester: "January 2024",
+                status: "Completed"
+            },
+            {
+                title: "Civic Engagement Platform",
+                year: "2024",
+                category: "civic",
+                description: "Digital platform connecting citizens with local government initiatives and policy feedback",
+                tags: ["Civic Tech", "Community", "Democracy"],
+                image: "/api/placeholder/400/320",
+                demo: "#",
+                code: "#",
+                contributors: [
+                    {
+                        name: "Sarah Chen",
+                        role: "Product Manager",
+                        github: "schen",
+                        linkedin: "sarah-chen"
+                    },
+                    {
+                        name: "Tom Wilson",
+                        role: "UX Designer",
+                        github: "twilson",
+                        linkedin: "tom-wilson"
+                    }
+                ],
+                technologies: ["React", "Firebase", "Material-UI"],
+                semester: "January 2024",
+                status: "Completed"
+            },
+            {
+                title: "Smart Transportation Optimizer",
+                year: "2024",
+                category: "transportation",
+                description: "AI-driven system for optimizing public transit routes and reducing urban congestion",
+                tags: ["Transportation", "Smart City", "AI"],
+                image: "/api/placeholder/400/320",
+                demo: "#",
+                code: "#",
+                contributors: [
+                    {
+                        name: "James Wilson",
+                        role: "Backend Developer",
+                        github: "jwilson",
+                        linkedin: "james-wilson"
+                    },
+                    {
+                        name: "Emma Davis",
+                        role: "Transportation Analyst",
+                        github: "edavis",
+                        linkedin: "emma-davis"
+                    }
+                ],
+                technologies: ["Python", "TensorFlow", "PostgreSQL"],
+                semester: "January 2024",
+                status: "Completed"
+            },
+            {
+                title: "Public Safety Response System",
+                year: "2023",
+                category: "civic",
+                description: "Emergency response optimization platform for urban public safety departments",
+                tags: ["Public Safety", "Emergency Response", "Smart City"],
+                image: "/api/placeholder/400/320",
+                demo: "#",
+                code: "#",
+                contributors: [
+                    {
+                        name: "Mike Brown",
+                        role: "System Architect",
+                        github: "mbrown",
+                        linkedin: "mike-brown"
+                    }
+                ],
+                technologies: ["Java", "Spring Boot", "Redis"],
+                semester: "January 2023",
+                status: "Completed"
+            },
+            {
+                title: "Digital Democracy Toolkit",
+                year: "2023",
+                category: "civic",
+                description: "Suite of tools for enhancing digital participation in democratic processes",
+                tags: ["Democracy", "Civic Tech", "Digital Tools"],
+                image: "/api/placeholder/400/320",
+                demo: "#",
+                code: "#",
+                contributors: [
+                    {
+                        name: "Rachel Park",
+                        role: "Frontend Developer",
+                        github: "rpark",
+                        linkedin: "rachel-park"
+                    },
+                    {
+                        name: "Daniel Lee",
+                        role: "Policy Researcher",
+                        github: "dlee",
+                        linkedin: "daniel-lee"
+                    }
+                ],
+                technologies: ["React", "Node.js", "MongoDB"],
+                semester: "January 2023",
+                status: "Completed"
+            },
+            {
+                title: "Urban Housing Analytics",
+                year: "2023",
+                category: "housing",
+                description: "Data analytics platform for affordable housing policy impact assessment",
+                tags: ["Housing", "Data Analytics", "Policy"],
+                image: "/api/placeholder/400/320",
+                demo: "#",
+                code: "#",
+                contributors: [
+                    {
+                        name: "Sophie Martinez",
+                        role: "Data Analyst",
+                        github: "smartinez",
+                        linkedin: "sophie-martinez"
+                    }
+                ],
+                technologies: ["R", "Shiny", "PostgreSQL"],
+                semester: "January 2023",
+                status: "Completed"
+            }
+        ];
+
+        // Updated card creation function with tags
+        function createProjectCard(project) {
+            const tagsHTML = project.tags.map(tag => 
+                `<span class="project-tag">${tag}</span>`
+            ).join('');
+
+            const contributorsHTML = project.contributors.map(contributor => `
+                <div class="contributor">
+                    <div class="contributor-info">
+                        <span class="contributor-name">${contributor.name}</span>
+                        <span class="contributor-role">${contributor.role}</span>
+                    </div>
+                    <div class="contributor-links">
+                        <a href="https://github.com/${contributor.github}" target="_blank">GitHub</a>
+                        <a href="https://linkedin.com/in/${contributor.linkedin}" target="_blank">LinkedIn</a>
+                    </div>
+                </div>
+            `).join('');
+
+            const techStackHTML = project.technologies.map(tech => 
+                `<span class="tech-tag">${tech}</span>`
+            ).join('');
+
+            return `
+                <div class="project-card" data-year="${project.year}" data-category="${project.category}">
+                    <img src="${project.image}" alt="${project.title}" class="project-image">
+                    <div class="project-info">
+                        <div class="project-header">
+                            <h3 class="project-title">${project.title}</h3>
+                            <span class="project-status">${project.status}</span>
+                        </div>
+                        <span class="project-year">${project.year}</span>
+                        <div class="project-tags">${tagsHTML}</div>
+                        <p class="project-description">${project.description}</p>
+                        
+                        <div class="project-details">
+                            <h4>Technologies Used</h4>
+                            <div class="tech-stack">${techStackHTML}</div>
+                            
+                            <h4>Contributors</h4>
+                            <div class="contributors-list">${contributorsHTML}</div>
+                            
+                            <div class="project-meta">
+                                <span>Semester: ${project.semester}</span>
+                            </div>
+                        </div>
+
+                        <div class="project-links">
+                            <a href="${project.demo}" class="project-link">Live Demo</a>
+                            <a href="${project.code}" class="project-link">View Code</a>
+                            <button class="project-details-btn">Read More</button>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        // Updated filter function
+        function filterProjects(year, category) {
+            const cards = document.querySelectorAll('.project-card');
+            const noResults = document.getElementById('noResults');
+            let visibleCount = 0;
+
+            cards.forEach(card => {
+                const yearMatch = year === 'all' || card.dataset.year === year;
+                const categoryMatch = category === 'all' || card.dataset.category === category;
+                if (yearMatch && categoryMatch) {
+                    card.style.display = 'block';
+                    visibleCount++;
+                } else {
+                    card.style.display = 'none';
+                }
+            });
+
+            // Show/hide no results message
+            noResults.style.display = visibleCount === 0 ? 'block' : 'none';
+        }
+
+        // Initialize the page
+        document.addEventListener('DOMContentLoaded', () => {
+            lucide.createIcons();
+            const projectsGrid = document.getElementById('projectsGrid');
+            const projectsSection = document.getElementById('projectsSection');
+            const resourcesSection = document.getElementById('resourcesSection');
+            const aboutSection = document.getElementById('aboutSection');
+            
+            // Navigation links
+            const projectsLink = document.getElementById('projectsLink');
+            const resourcesLink = document.getElementById('resourcesLink');
+            const aboutLink = document.getElementById('aboutLink');
+            
+            // Render projects
+            projects.forEach(project => {
+                projectsGrid.innerHTML += createProjectCard(project);
+            });
+
+            // Filter functionality
+            let currentYear = 'all';
+            let currentCategory = 'all';
+
+            const filterButtons = document.querySelectorAll('.filter-btn');
+            filterButtons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const filterGroup = button.parentElement;
+                    filterGroup.querySelectorAll('.filter-btn').forEach(btn => 
+                        btn.classList.remove('active')
+                    );
+                    button.classList.add('active');
+
+                    if(button.dataset.year) currentYear = button.dataset.year;
+                    if(button.dataset.category) currentCategory = button.dataset.category;
+                    
+                    filterProjects(currentYear, currentCategory);
+                });
+            });
+
+            // Navigation functionality
+            projectsLink.addEventListener('click', (e) => {
+                e.preventDefault();
+                projectsSection.style.display = 'block';
+                resourcesSection.classList.remove('active');
+                aboutSection.classList.remove('active');
+            });
+
+            resourcesLink.addEventListener('click', (e) => {
+                e.preventDefault();
+                projectsSection.style.display = 'none';
+                resourcesSection.classList.add('active');
+                aboutSection.classList.remove('active');
+            });
+
+            aboutLink.addEventListener('click', (e) => {
+                e.preventDefault();
+                projectsSection.style.display = 'none';
+                resourcesSection.classList.remove('active');
+                aboutSection.classList.add('active');
+            });
+        });
+    </script>
+</body>
+</html>
