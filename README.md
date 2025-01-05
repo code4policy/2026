@@ -13,8 +13,8 @@ Logistics
 	* Section A: 10am - 2pm Eastern
 	* Section B: 4pm - 8pm Eastern 
 	* Office Hours:
-        * Dagime Gebrie: TBD, in-person (location TBD)
-   		* Hileamlak Yitayew: TBD, in-person (location TBD)
+        * Dagime Gebrie: 3pm - 4pm, in-person (outside our classroom [Rubenstein 304])
+   		* Hileamlak Yitayew: 2pm - 3pm, in-person (outside our classroom [Rubenstein 304])
 
 * Syllabus: [syllabus.md](syllabus.md)
 * Slack: [https://code4policy.slack.com](https://code4policy.slack.com)
