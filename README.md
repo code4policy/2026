@@ -41,14 +41,14 @@ file | description
 file | description
 -----|------------
 [Intro (slides)](https://slides.com/dhrumilmehta/hks-intro) | Introduction to the class
-**Section A only** [modules/agile](https://github.com/code4policy/modules/tree/master/agile) | Agile and Scrum Module
-User Stories | [Section A](https://docs.google.com/presentation/d/1WQ0lWefKmv7s85hdPIfnI_aXDscxBHPzY_IrjBPFUbc/edit#slide=id.g1ee45b6671a_2_111), [**Section B only**](https://docs.google.com/presentation/d/1fCrK2QGIlOKwo5zkw40kNGyXmT9PkR5c5PEciVuNdLk/edit#slide=id.p)
+[modules/agile](https://github.com/code4policy/modules/tree/master/agile) | Agile and Scrum Module
+User Stories | [Section A](https://docs.google.com/presentation/d/1WQ0lWefKmv7s85hdPIfnI_aXDscxBHPzY_IrjBPFUbc/edit#slide=id.g1ee45b6671a_2_111), [Section B](https://docs.google.com/presentation/d/1fCrK2QGIlOKwo5zkw40kNGyXmT9PkR5c5PEciVuNdLk/edit#slide=id.p)
 Zoom | Alumni Panel 
 
 ### Async
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
-GitHub Intro <ul><li>[Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b06556cc-5cec-404d-9ee8-ada40121777e)</li><li>[modules/git/01-intro-git.md](https://github.com/code4policy/modules/tree/master/git/01-intro-git.md)</li><li>[modules/git/02-intro-github.md](https://github.com/code4policy/modules/tree/master/git/02-intro-github.md)</li></ul> | [modules/agile/06-reading.md](https://github.com/code4policy/modules/tree/master/agile/06-reading.md) | -- | Section B only: [Project Brainstorm](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md)
+GitHub Intro <ul><li>[Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b06556cc-5cec-404d-9ee8-ada40121777e)</li><li>[modules/git/01-intro-git.md](https://github.com/code4policy/modules/tree/master/git/01-intro-git.md)</li><li>[modules/git/02-intro-github.md](https://github.com/code4policy/modules/tree/master/git/02-intro-github.md)</li></ul> | Section A only: [modules/agile/06-reading.md](https://github.com/code4policy/modules/tree/master/agile/06-reading.md) | -- | Section B only: [Project Brainstorm](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md)
 
 
