@@ -41,8 +41,8 @@ file | description
 file | description
 -----|------------
 [Intro (slides)](https://slides.com/dhrumilmehta/hks-intro) | Introduction to the class
-[modules/agile](https://github.com/code4policy/modules/tree/master/agile) | Agile and Scrum Module
-User Stories | [Section A](https://docs.google.com/presentation/d/1WQ0lWefKmv7s85hdPIfnI_aXDscxBHPzY_IrjBPFUbc/edit#slide=id.g1ee45b6671a_2_111), [Section B](https://docs.google.com/presentation/d/1fCrK2QGIlOKwo5zkw40kNGyXmT9PkR5c5PEciVuNdLk/edit#slide=id.p)
+**Section A only** [modules/agile](https://github.com/code4policy/modules/tree/master/agile) | Agile and Scrum Module
+User Stories | [Section A](https://docs.google.com/presentation/d/1WQ0lWefKmv7s85hdPIfnI_aXDscxBHPzY_IrjBPFUbc/edit#slide=id.g1ee45b6671a_2_111), [**Section B only**](https://docs.google.com/presentation/d/1fCrK2QGIlOKwo5zkw40kNGyXmT9PkR5c5PEciVuNdLk/edit#slide=id.p)
 Zoom | Alumni Panel 
 
 ### Async
