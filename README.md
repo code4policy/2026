@@ -51,4 +51,21 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 GitHub Intro <ul><li>[Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b06556cc-5cec-404d-9ee8-ada40121777e)</li><li>[modules/git/01-intro-git.md](https://github.com/code4policy/modules/tree/master/git/01-intro-git.md)</li><li>[modules/git/02-intro-github.md](https://github.com/code4policy/modules/tree/master/git/02-intro-github.md)</li></ul> | Section A only: [modules/agile/06-reading.md](https://github.com/code4policy/modules/tree/master/agile/06-reading.md) | -- | Section B only: [Project Brainstorm](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md)
 
+## Day 2 (Jan 3)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+[modules/git](https://github.com/code4policy/modules/tree/master/git) | Git and GitHub Overview (Lesson 1 and 2 recap)
+Bad Veggies [section-A](https://github.com/code4policy/bad-veggies-website-section-a) [section-B](https://github.com/code4policy/bad-veggies-website-section-b) | Collaborating on GitHub
+
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3557fdf2-1259-47af-acff-ada40120f966), [file](https://github.com/code4policy/modules/blob/master/commandline/01-intro.md)</li><li>Filesystem [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f90a0d4-c6a8-4ebc-911b-ada40121784c), [file](https://github.com/code4policy/modules/blob/master/commandline/02-filesystem.md)</li></ul> | -- | [Terminus(optional)](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) | Project Group Brainstorm
+
 
