@@ -20,7 +20,7 @@ Logistics
 * Slack: [https://code4policy.slack.com](https://code4policy.slack.com)
 * Reflection Forms: 
 	* [Agile Reflection](https://forms.gle/JZtYzrC3GGZsxyn97)
-	* [Tech Reflection](https://forms.gle/vyPXByRc4M8dFfZT6)
+	* [Tech Reflection]([https://forms.gle/vyPXByRc4M8dFfZT6](https://docs.google.com/forms/d/1Vl3t9wT5D6eqpIra6QBT7XyZFbKxUCnFCnLCtnVi3qU/viewform?edit_requested=true))
 	* [Journal Entry](https://forms.gle/7WkhzUa4QLUBYpN7A)
 	* [AI Reflection](https://forms.gle/MnkWDyKw4XijY3cLA)
 
