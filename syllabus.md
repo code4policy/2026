@@ -17,7 +17,7 @@ Class will take place in person and will be a combination of synchronous and asy
 * **Section A:** Daily Monday through Friday | 10am - 2pm Eastern Time*
 * **Section B:** Daily Monday through Friday | 4pm - 8pm Eastern Time
 
-The course is fairly demanding and should be your main commitment during the J-term. It would be difficult for example to try and take another J-term course alongside this one. Projects will be due by **Monday January 15**.
+The course is fairly demanding and should be your main commitment during the J-term. It would be difficult for example to try and take another J-term course alongside this one. Projects will be due by **Monday January 20**.
 
 Exercises will build on one another towards a final project which will be a small web application. Students will be graded on the final projects as well as daily assignments both during and after class.
 
@@ -50,7 +50,7 @@ No prior programming experience is necessary but the course will be rooted in pr
 * All of the exercises in the course will build towards the development of a project aimed at using all the skills learned in the course to deploy a small dynamic web application.
 * Projects will be done in small groups depending on the class size. Each group will be arranged into a “scrum” team.
 * Each individual’s contribution to the project can also be tracked via GitHub to ensure everyone’s participation. Both platforms will be used for project planning and execution but will also serve as a communication tool within the team and with the instructor. Groups will also communicate over Slack.
-* Projects will be due on **Jan. 15, 2025**. Students will be expected to arrange time during the days that class is not in session to work on their projects. The instructor will be available to answer questions and for technical help.
+* Projects will be due on **Jan. 20, 2025**. Students will be expected to arrange time during the days that class is not in session to work on their projects. The instructor will be available to answer questions and for technical help.
 * The project will be graded in two parts:
   
 1. **Product:** successfully deploying a web application that meets “user” needs
