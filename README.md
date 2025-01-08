@@ -76,7 +76,6 @@ Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pa
 file | description
 -----|------------
 [ ]() | Standup Meeting
-[modules/agile/04-agile-philosophy.md](https://github.com/code4policy/modules/blob/master/agile/04-agile-philosophy.md) | Agile Philosopy
 **Section B:** [Brainstorm Responses](https://docs.google.com/spreadsheets/d/1g3vycc46gRx3kKI7hLJZAQ9jPr6WMHYoumzvT6X44VI/edit?usp=sharing) | **Section A:** City of Boston Meeting. **Section B:** Project Research Mingling / Assign Groups
 [modules/git/03-ssh](https://github.com/code4policy/modules/blob/master/git/03-ssh.md#setup) | SSH Setup
 [modules/commandline](https://github.com/code4policy/modules/tree/master/commandline) | Command Line
