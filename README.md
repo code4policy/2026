@@ -86,4 +86,22 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --| -- | Finish [universe](https://classroom.github.com/a/UUVB-o8Q) and [cowsay](https://classroom.github.com/a/zbOIMr8b) assignments. | Group Meetings (decide on topic, brainstorm users, start making user stories). Start on preparing for a [storytime meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md).
 
+## Day 4 (Jan 9)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+-- | Project Time
+[modules/git](https://github.com/code4policy/modules/tree/master/git) (Lessons 4 & 5) | Git from command line
+Start on [simple-website](https://classroom.github.com/a/FmU8UsNT) | Simple Website
+[modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md)| Storytime (pick roles, start fleshing out user stories and personas, start "grooming the backlog")
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+--|Read Part A of Healthcare.gov case (in Slack) | Work on [Mozilla Front-end](https://classroom.github.com/a/dOxHi2_k) | Be prepared with user stories at the next class. Have a [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. If you have some, start to break down stories that are too lage into smaller stories. Start to think about which stories you can take on in sprint 1 (MVP).
+
 
