@@ -84,6 +84,6 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
---| -- | Finish [universe](https://classroom.github.com/a/UUVB-o8Q) and [cowsay](https://classroom.github.com/a/zbOIMr8b) assignments. | Group Meetings (decide on topic, brainstorm users, start making user stories). Start on preparing for a [storytime meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md).
+--| -- | Finish [universe](https://classroom.github.com/a/UUVB-o8Q) and [cowsay](https://classroom.github.com/a/zbOIMr8b) assignments. | Group Meetings (decide on topic, brainstorm users, start making user stories). Start on preparing for a [storytime meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md). Start writing some draft user stories!
 
 
