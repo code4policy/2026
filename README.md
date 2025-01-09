@@ -104,7 +104,7 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --| -- | Work on [Mozilla Front-end](https://classroom.github.com/a/U9616Vbw) | Be prepared with user stories at the next class. Have a [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. If you have some, start to break down stories that are too lage into smaller stories. Start to think about which stories you can take on in sprint 1 (MVP).
 
-## Day 5 (Jan 6)
+## Day 5 (Jan 10)
 
 ### Sync
 
