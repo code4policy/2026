@@ -95,7 +95,7 @@ file | description
 [ ]() | Standup Meeting
 -- | Project Time
 [modules/git](https://github.com/code4policy/modules/tree/master/git) (Lessons 4 & 5) | Git from command line
-Start on [simple-website](https://classroom.github.com/a/FmU8UsNT) | Simple Website
+Start on [simple-website](https://classroom.github.com/a/mwBd2mfJ) | Simple Website
 [modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md)| Storytime (pick roles, start fleshing out user stories and personas, start "grooming the backlog")
 
 ### Async
