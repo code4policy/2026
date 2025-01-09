@@ -102,6 +102,6 @@ Start on [simple-website](https://classroom.github.com/a/mwBd2mfJ) | Simple Webs
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
---| -- | Work on [Mozilla Front-end](https://github.com/code4policy/2025-mozilla-website-mozilla-website) | Be prepared with user stories at the next class. Have a [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. If you have some, start to break down stories that are too lage into smaller stories. Start to think about which stories you can take on in sprint 1 (MVP).
+--| -- | Work on [Mozilla Front-end](https://classroom.github.com/a/W3PEFNLN) | Be prepared with user stories at the next class. Have a [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. If you have some, start to break down stories that are too lage into smaller stories. Start to think about which stories you can take on in sprint 1 (MVP).
 
 
