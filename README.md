@@ -112,7 +112,7 @@ file | description
 -----|------------
 [ ]() | Standup Meeting 
 [modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Storytime
-[modules/web](https://github.com/code4policy/modules/tree/master/web) (Lesson 4)| Addendum
+[modules/web](https://github.com/code4policy/modules/blob/master/web/04-frontend-stack.md) (Lesson 4)| Addendum
 [Git in Groups](https://github.com/code4policy/modules/blob/master/git/06-branching.md#%EF%B8%8F-try-it) | Demo project in a group
 [modules/finalproject/03-sprint-planning.md](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md) | Sprint Planning Meeting (Demo)
 
