@@ -104,4 +104,22 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --| -- | Work on [Mozilla Front-end](https://classroom.github.com/a/U9616Vbw) | Be prepared with user stories! You should have more, but you should have **one** user story to meet I-N-V-E-S-T and have a very strong definition of done that tests the "so that" clause. Have a [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. Bring a list of all your user stories sorted from large to small. Clarify/break large stories into smaller stories. **Section A: tag us in your slack channels with your user stories.**  **Section B: Submit your user stories [here](https://docs.google.com/forms/d/e/1FAIpQLSdQhJVbS45FZ29CyM9NX1BS5hn2r7pZr-t3mArkeXurhG4CrQ/viewform?usp=sharing).**  
 
+## Day 5 (Jan 10)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting (Slack)
+[modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Workshop some user stories (INVEST + definitions of done + story splitting)
+[modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) | Github Project Boards
+[modules/web](https://github.com/code4policy/modules/tree/master/web) (Lesson 4)| finish CSS + Addendum
+[Git in Groups](https://github.com/code4policy/modules/blob/master/git/06-branching.md#%EF%B8%8F-try-it) | Demo project in a group
+[modules/finalproject/03-sprint-planning.md](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md) | Sprint Planning Meeting (Demo)
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+**(optional)** Getting started with your projects [helper video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8aee5c6b-b97a-426e-81c9-acab00224fc0) and [workflows file](https://github.com/code4policy/modules/blob/master/git/12-workflow.md) | [Dataviz video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff067f30-d6a7-46d5-92cb-ada4012176d1) + Atlassian roundtable - practitioners discussing agile estimation ([youtube](https://www.youtube.com/watch?v=_N5gj9gzOjg)) | Complete unfinished assignments (Python not just for unicorns, [16-22 and 24-27](https://github.com/code4policy/2025/blob/main/precoursework.md#intro-assignment), lists & dictionaries) | <ul><li>Finish [Storytime Meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) </li><li> Finish [Sprint Planning Meeting](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md)</li><li>Work on Sprint 1 (ends Monday)</li></ul>
 
