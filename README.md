@@ -102,7 +102,7 @@ Start on [simple-website](https://classroom.github.com/a/mwBd2mfJ) | Simple Webs
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
---| -- | Work on [Mozilla Front-end](https://classroom.github.com/a/U9616Vbw) |  -Be prepared with user stories! **Section A: tag us in your slack channels with your user stories.** Workshop **one** user story to meet I-N-V-E-S-T and have a very strong definition of done that tests the "so that" clause. 
--**Section B: Submit your user stories [here](https://docs.google.com/forms/d/e/1FAIpQLSdQhJVbS45FZ29CyM9NX1BS5hn2r7pZr-t3mArkeXurhG4CrQ/viewform?usp=sharing).**  Have a [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. Bring a list of all your user stories sorted from large to small. Clarify/break large stories into smaller stories.
+--| -- | Work on [Mozilla Front-end](https://classroom.github.com/a/U9616Vbw) | Be prepared with user stories! **Section A: tag us in your slack channels with your user stories.** Workshop **one** user story to meet I-N-V-E-S-T and have a very strong definition of done that tests the "so that" clause. 
+**Section B: Submit your user stories [here](https://docs.google.com/forms/d/e/1FAIpQLSdQhJVbS45FZ29CyM9NX1BS5hn2r7pZr-t3mArkeXurhG4CrQ/viewform?usp=sharing).**  Have a [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. Bring a list of all your user stories sorted from large to small. Clarify/break large stories into smaller stories.
 
 
