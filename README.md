@@ -135,7 +135,8 @@ file | description
 [modules/commandline](https://github.com/code4policy/modules/tree/main/commandline) | Command line lessons 2.5 - 4
 -- | Sprint Review
 -- | [Sprint Retrospective](https://forms.gle/3ZYRRYRnzANs6NVn7)
--- | Sprint Planning
+-- | Storytime
+
 ### Async
 
 Video  | Reading| Coding | Project
