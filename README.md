@@ -143,10 +143,3 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --- | ---| --- | Sprint 2 begins! Have a Sprint Planning Meeting.
 
-
-### Async
-
-Video  | Reading| Coding | Project
--------|-------|-------|-------|
--- | -- | [cli-filter](https://classroom.github.com/a/s9G8H0z3) | Work on Project!
-
