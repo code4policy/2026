@@ -141,5 +141,5 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
---- | ---| --- | Sprint 2 begins! Have a Sprint Planning Meeting.
+--- | [Agile 2 reading](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md) before David Eaves| --- | Sprint 2 begins! Have a Sprint Planning Meeting.
 
