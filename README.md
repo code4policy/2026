@@ -122,3 +122,25 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 **(optional)** Getting started with your projects [helper video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdb8fac-2798-4a3a-bf3c-ada401221b04) and [workflows file](https://github.com/code4policy/modules/blob/master/git/12-workflow.md) | Atlassian roundtable - practitioners discussing agile estimation ([youtube](https://www.youtube.com/watch?v=_N5gj9gzOjg)) | Complete unfinished assignments (Python not just for unicorns, [16-22 and 24-27](https://github.com/code4policy/2025/blob/main/precoursework.md#intro-assignment), lists & dictionaries) | <ul><li>Finish [Storytime Meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) </li><li> Finish [Sprint Planning Meeting](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md)</li><li>Work on Sprint 1 (ends Monday)</li></ul>
 
+
+# Week 2
+
+## Day 6 (Jan 8)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting (groups)
+[modules/commandline](https://github.com/code4policy/modules/tree/main/commandline) | Command line lessons 2.5 - 4
+[Principles of DataViz](https://docs.google.com/presentation/d/1wiYI-AoTEzTaDuKFjkRNfrqghuDWTBA5GJIho0aEhfU/edit#slide=id.g2884ecb684e_2_174) | Dhrumil's DataViz Slides + Rubric
+[modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization Examples
+[dataviz-with-gpt/](https://github.com/code4policy/dataviz-with-gpt)| Dataviz with ChatGPT
+
+### Async
+
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | Finish Case part A & B **and** The Atlantic article | [functions](https://github.com/code4policy/modules/blob/main/codeconcepts/function.md) assignment | Sprint 1! 
+
