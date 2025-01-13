@@ -153,7 +153,6 @@ file | description
 [Principles of DataViz](https://docs.google.com/presentation/d/1wiYI-AoTEzTaDuKFjkRNfrqghuDWTBA5GJIho0aEhfU/edit#slide=id.g2884ecb684e_2_174) | Dhrumil's DataViz Slides + Rubric
 [modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization Examples
 [dataviz-with-gpt/](https://github.com/code4policy/dataviz-with-gpt)| Dataviz with ChatGPT
-[modules/data](https://github.com/code4policy/modules/tree/master/data) | Getting started with data in Python
 
 ### Async
 
