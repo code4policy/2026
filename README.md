@@ -141,5 +141,5 @@ file | description
  
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
---- | [Agile 2 reading](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md) before David Eaves| --- | Finish storytime meeting. Be ready for planning poker! Have your user stories from smallest to biggest and workshop the smallest ones with good, testable definitions of done. 
+--- | [Agile 2 reading](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md) before David Eaves| --- | Finish storytime meeting. Be ready for planning poker! Have your user stories from smallest to biggest and workshop the smallest ones with good, testable definitions of done. You can use this [bot](https://chatgpt.com/g/g-Mqs6bq2xd-definiton-of-done-bot) if it helps. 
 
