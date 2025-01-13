@@ -125,7 +125,7 @@ Video  | Reading| Coding | Project
 
 # Week 2
 
-## Day 6 (Jan 8)
+## Day 6 (Jan 13)
 
 ### Sync
 
@@ -142,4 +142,22 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --- | ---| --- | Sprint 2 begins! Have a Sprint Planning Meeting.
+
+## Day 7 (Jan 14)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting (groups)
+[Principles of DataViz](https://docs.google.com/presentation/d/1wiYI-AoTEzTaDuKFjkRNfrqghuDWTBA5GJIho0aEhfU/edit#slide=id.g2884ecb684e_2_174) | Dhrumil's DataViz Slides + Rubric
+[modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization Examples
+[dataviz-with-gpt/](https://github.com/code4policy/dataviz-with-gpt)| Dataviz with ChatGPT
+[modules/data](https://github.com/code4policy/modules/tree/master/data) | Getting started with data in Python
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | -- | [cli-filter](https://classroom.github.com/assignment-invitations/d86f14ec5bde00a16617dd31696d0eda) | Work on Project!
 
