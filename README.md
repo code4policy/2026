@@ -143,17 +143,6 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --- | ---| --- | Sprint 2 begins! Have a Sprint Planning Meeting.
 
-## Day 7 (Jan 14)
-
-### Sync
-
-file | description
------|------------
-[ ]() | Standup Meeting (groups)
-[David Eaves](https://www.ucl.ac.uk/bartlett/public-purpose/david-eaves) | Guest Speaker!
-[Principles of DataViz](https://docs.google.com/presentation/d/1wiYI-AoTEzTaDuKFjkRNfrqghuDWTBA5GJIho0aEhfU/edit#slide=id.g2884ecb684e_2_174) | Dhrumil's DataViz Slides + Rubric
-[modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization Examples
-[dataviz-with-gpt/](https://classroom.github.com/a/cCdSRlal)| Dataviz with ChatGPT
 
 ### Async
 
