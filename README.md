@@ -133,7 +133,7 @@ file | description
 -----|------------
 [ ]() | Standup Meeting (groups)
 [modules/commandline](https://github.com/code4policy/modules/tree/main/commandline) | Command line lessons 2.5 - 4
--- | Sprint Review
+-- | [Sprint Review](https://github.com/code4policy/modules/blob/3e6e450ffd4af2a2525e30038527c311b742908b/finalproject/05-sprint-review.md?plain=1#L4)
 -- | [Sprint Retrospective](https://forms.gle/3ZYRRYRnzANs6NVn7)
 -- | Storytime
 
