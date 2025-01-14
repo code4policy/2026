@@ -143,3 +143,23 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --- | [Agile 2 reading](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md) before David Eaves| --- | Finish storytime meeting. Be ready for planning poker! Have your user stories from smallest to biggest and workshop the smallest ones with good, testable definitions of done. You can use this [bot](https://chatgpt.com/g/g-Mqs6bq2xd-definiton-of-done-bot) if it helps. 
 
+## Day 7 (Jan 14)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting (groups)
+[]() | Planning Poker
+[David Eaves](https://www.ucl.ac.uk/bartlett/public-purpose/david-eaves) | Guest Speaker!
+[Principles of DataViz](https://docs.google.com/presentation/d/1wiYI-AoTEzTaDuKFjkRNfrqghuDWTBA5GJIho0aEhfU/edit#slide=id.g2884ecb684e_2_174) | Dhrumil's DataViz Slides + Rubric
+[modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization Examples
+[dataviz-with-gpt/](https://classroom.github.com/a/cCdSRlal)| Dataviz with ChatGPT
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | -- | [cli-filter](https://classroom.github.com/a/A6o7joSx) | Work on project!
+
+
