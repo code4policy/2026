@@ -169,7 +169,7 @@ Video  | Reading| Coding | Project
 file | description
 -----|------------
 -- | Section A: Python set up
-[web-presentation](https://docs.google.com/presentation/d/1xyyydINQnqrzJBb5F7ra9hxZmASRwJvKVNccuD8PY04/edit?usp=sharing), [modules/web](https://github.com/code4policy/modules/tree/master/web) | Web
+[web-presentation](https://docs.google.com/presentation/d/1xyyydINQnqrzJBb5F7ra9hxZmASRwJvKVNccuD8PY04/edit?usp=sharing), [modules/web](https://github.com/code4policy/modules/tree/master/web), [web exercise](https://docs.google.com/presentation/d/1fauWa_o6BNNambjCKHGwGH-ek8GYLs1BiPRijpqOrc4/edit?usp=sharing) | Web
 -- | Section A: City of Boston Meeting @ 12 pm 
 [chart-example](https://github.com/code4policy/chart-example) | Chart Example
 
