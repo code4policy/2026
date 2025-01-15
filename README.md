@@ -160,6 +160,6 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | -- | [functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) | Work on project!
+-- | -- | **Section A only:** [functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) | Work on project!
 
 
