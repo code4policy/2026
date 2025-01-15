@@ -170,11 +170,12 @@ file | description
 -----|------------
 -- | Section A: Python set up
 -- | Web
+-- | Section A: City of Boston Meeting @ 12 pm 
 [chart-example](https://github.com/code4policy/chart-example) | Chart Example
 
 ### Async
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | -- | --- | ---
+-- | -- |  **Section A only:** [cli-filter](https://classroom.github.com/a/s9G8H0z3) <br> **Section B only:**[functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) | ---
 
