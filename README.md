@@ -162,4 +162,20 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | -- | **Section A only:** [functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) <br> **Section B only:** finish [dataviz-with-gpt/](https://classroom.github.com/a/cCdSRlal)| Finish Sprint Review and start on Sprint 2
 
+## Day 8 (Jan 15)
+
+### Sync
+
+file | description
+-----|------------
+-- | Section A: Python set up
+[web-presentation](https://docs.google.com/presentation/d/1xyyydINQnqrzJBb5F7ra9hxZmASRwJvKVNccuD8PY04/edit?usp=sharing), [modules/web](https://github.com/code4policy/modules/tree/master/web) | Web
+-- | Section A: City of Boston Meeting @ 12 pm 
+[chart-example](https://github.com/code4policy/chart-example) | Chart Example
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | -- | <br> **Section B only:**[functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) | ---
 
