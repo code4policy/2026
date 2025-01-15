@@ -162,4 +162,19 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | -- | **Section A only:** [functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) <br> **Section B only:** finish [dataviz-with-gpt/](https://classroom.github.com/a/cCdSRlal)| Finish Sprint Review and start on Sprint 2
 
+## Day 8 (Jan 15)
+
+### Sync
+
+file | description
+-----|------------
+-- | Section A: Python set up
+-- | Web
+[chart-example](https://github.com/code4policy/chart-example) | Chart Example
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | -- | --- | ---
 
