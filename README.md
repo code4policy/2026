@@ -160,6 +160,6 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | -- | **Section A only:** [functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) | Work on project!
+-- | -- | **Section A only:** [functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) <br> **Section B only:** finish [dataviz-with-gpt/](https://classroom.github.com/a/cCdSRlal)| Finish Sprint Review and start on Sprint 2
 
 
