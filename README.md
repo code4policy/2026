@@ -192,4 +192,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | --- | --- | **Section A only:**Sprint 2 Review tomorrow!
+-- | --- | --- | **Section A only:** Sprint 2 Review tomorrow!
