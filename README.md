@@ -193,4 +193,5 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | --- | --- | **Section A only:** Sprint 2 Review tomorrow!
+-- | --- | --- | **Section A only:** Sprint 2 Review tomorrow! <br> **Section B only** [Swartz](https://github.com/code4policy/modules/blob/master/apis/apireadings.md) Chapter 2 (p 9-13); Chapter 3 (all); Chapter 5 (p 31-36)
+
