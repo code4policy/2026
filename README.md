@@ -179,3 +179,17 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | -- | <br> **Section B only:**[functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) | ---
 
+## Day 9 (Jan 16)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+[modules/data](https://github.com/code4policy/modules/tree/main/data) | Data in Python
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | --- | --- | **Section A only:**Sprint 2 Review tomorrow!
