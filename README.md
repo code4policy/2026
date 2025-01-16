@@ -179,3 +179,19 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | -- | <br> **Section B only:**[functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) | ---
 
+## Day 9 (Jan 16)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+[cli-filter](https://classroom.github.com/a/s9G8H0z3)
+[modules/web](https://github.com/code4policy/modules/tree/master/web) | Web & APIs
+[modules/data](https://github.com/code4policy/modules/tree/main/data) | Data in Python
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | [Swartz](https://github.com/code4policy/modules/blob/master/apis/apireadings.md) Chapter 2 (p 9-13); Chapter 3 (all); Chapter 5 (p 31-36) | [FEC-API](https://classroom.github.com/a/vGiKLqfw) | Sprint 2! 
