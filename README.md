@@ -186,8 +186,6 @@ Video  | Reading| Coding | Project
 file | description
 -----|------------
 [ ]() | Standup Meeting
-[cli-filter](https://classroom.github.com/a/s9G8H0z3)
-[modules/web](https://github.com/code4policy/modules/tree/master/web) | Web & APIs
 [modules/data](https://github.com/code4policy/modules/tree/main/data) | Data in Python
 
 ### Async
