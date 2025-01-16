@@ -192,4 +192,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | [Swartz](https://github.com/code4policy/modules/blob/master/apis/apireadings.md) Chapter 2 (p 9-13); Chapter 3 (all); Chapter 5 (p 31-36) | [FEC-API](https://classroom.github.com/a/vGiKLqfw) | Sprint 2! 
+-- | --- | --- | **Section A only:**Sprint 2 Review tomorrow!
