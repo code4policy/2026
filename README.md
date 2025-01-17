@@ -213,4 +213,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | [Course Evaluations!](https://canvas.harvard.edu/) (on the canvas page for this class) | -- |  Don't forget to fill out a [Sprint Retrospective](https://docs.google.com/forms/d/e/1FAIpQLSePfDHMonIleOPRNHqEz3S4yYAern1CIMedsg9XECOv5trG0A/viewform?usp=pp_url&entry.787611179=2024) and any final reflection forms you'd like. Here is the final [submission guidelines](https://github.com/code4policy/modules/blob/master/finalproject/submission.md)
+-- | [Course Evaluations!](https://canvas.harvard.edu/) (on the canvas page for this class) | -- |  Don't forget to fill out a [Sprint Retrospective](https://docs.google.com/forms/d/e/1FAIpQLSePfDHMonIleOPRNHqEz3S4yYAern1CIMedsg9XECOv5trG0A/viewform?usp=pp_url&entry.787611179=2024) and any final reflection forms you'd like. Here are the final [submission guidelines](https://github.com/code4policy/modules/blob/master/finalproject/submission.md) and broader project [info](https://github.com/code4policy/modules/blob/master/finalproject/project.md)
