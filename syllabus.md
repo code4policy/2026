@@ -75,6 +75,7 @@ No prior programming experience is necessary but the course will be rooted in pr
 ### Tools for Self Reliance
 - Data cleaning and manipulation with regular expressions, command line data tools, and python.
 - Skills that students will need to go from data found in the wild to data that is clean enough to analyze it in their tool of choice (excel, stata, R, etc…)
+- Utilizing AI to teach yourself new programming languages and technical tools. 
 ### Visualizing Data for the Web
 - Learning the fundamentals of javascript-based web visualizations and existing code to to visualize a dataset of your choice
 ### Building a Web Application
