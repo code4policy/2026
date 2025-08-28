@@ -1,4 +1,4 @@
-# DPI-691M: Programming and Data for Policymakers (January 2025)
+# DPI-691M: Programming and Data for Policymakers (January 2026)
 
 **Instructors:** Dhrumil Mehta <Dhrumil_Mehta@hks.harvard.edu> & Aarushi Sahejpal <asahejpal@hks.harvard.edu>
 
@@ -17,7 +17,7 @@ Class will take place in person and will be a combination of synchronous and asy
 * **Section A:** Daily Monday through Friday | 10am - 2pm Eastern Time*
 * **Section B:** Daily Monday through Friday | 4pm - 8pm Eastern Time
 
-The course is fairly demanding and should be your main commitment during the J-term. It would be difficult for example to try and take another J-term course alongside this one. Projects will be due by **Monday January 20**.
+The course is fairly demanding and should be your main commitment during the J-term. It would be difficult for example to try and take another J-term course alongside this one. Projects will be due by **Monday January 19**.
 
 Exercises will build on one another towards a final project which will be a small web application. Students will be graded on the final projects as well as daily assignments both during and after class.
 
