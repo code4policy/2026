@@ -31,3 +31,4 @@ file | description
 [precoursework.md](precoursework.md) | Pre-course Work
 [setup/](https://github.com/code4policy/modules/tree/master/setup) | Windows and Mac Setup
 
+* If you want to take a look at last year's schedule, [check it out here](https://github.com/code4policy/2025). 
