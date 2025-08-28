@@ -111,7 +111,7 @@ No prior programming experience is necessary but the course will be rooted in pr
 ## Academic Honesty
 Students are encouraged to work collaboratively and in groups. Each student’s individual work will be tracked through their commits to GitHub, participation in discussions, submissions of assignments, and through other means. Academic dishonesty will not be tolerated.
 
-## ChatGPT Policy
+## AI Policy
 Not only can you use it, you are encouraged to for all assignments other than reflections. Those should be your own genuine thoughts. You are discouraged from generating text that goes on the public-facing projects you will be building. If you do plan to generate text for this purpose, please make sure to cite it clearly and with specific instructor permission.
 
 **Note**
