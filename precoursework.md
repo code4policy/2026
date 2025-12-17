@@ -36,4 +36,4 @@ If you have any questions or concerns, feel free to message the `#help` channel 
 * [Elements of Scrum](https://www.amazon.com/gp/product/B004O0U74Q/ref=oh_aui_d_detailpage_o00_?ie=UTF8&psc=1) by Chris Sims and Hillary Louise Johnson
 * [SCRUM: A Breathtaking Brief and Agile Introduction](https://www.amazon.com/Scrum-Breathtakingly-Brief-Agile-Introduction/dp/193796504X) by Chris Sims and Hillary Louise Johnson
 
-(I like to have these books handy as refernces, but if you want to save a few bucks, the Kindle editions are cheaper and can be read electronically on your browser through the [kindle cloud reader](https://read.amazon.com/) even if you don't own a kindle.)
+(I like to have these books handy as references, but if you want to save a few bucks, the Kindle editions are cheaper and can be read electronically on your browser through the [kindle cloud reader](https://read.amazon.com/) even if you don't own a kindle.)
