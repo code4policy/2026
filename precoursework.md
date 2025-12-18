@@ -3,7 +3,7 @@
 Welcome to Programming and Data for Policymakers! We're excited that you've chosen to spend your J-term rolling up your sleeves and writing some code! Please make sure to do the following before the first day of class:
 
 1. Fill out the [pre-course survey](https://forms.gle/vyPXByRc4M8dFfZT6). 
-2. Join the class [Slack](https://join.slack.com/t/code4policy/signup) chat.
+2. Join the class [Slack](https://join.slack.com/t/code4policy/signup) chat an introduce yourself in the #general channel.
 
 If you're new to programming, it is **highly recommended that you start on the intro assignment** (see below) before the course starts. Please also see the required course materials in the "Additional Course Materials" section below.
 	
