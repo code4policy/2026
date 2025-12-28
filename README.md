@@ -3,7 +3,7 @@
 Welcome to DPI-691M - Programming and Data for Policymakers!
 
 * Instructors: [Dhrumil Mehta](https://www.hks.harvard.edu/faculty/dhrumil-mehta) & [Aarushi Sahejpal](https://www.aarushisahejpal.com/)
-* Course Assistants: [Dagim Gebrie](https://www.linkedin.com/in/dagim-gebrie-11996123b/) & Hileamlak Yitayew ([Hilea](https://hilea.dev/))
+* Course Assistants: Asa Royal
 * Faculty Assistant: Melissa Kappotis
 
 Logistics
@@ -13,8 +13,7 @@ Logistics
 	* Section A: 10am - 2pm Eastern
 	* Section B: 4pm - 8pm Eastern 
 	* Office Hours:
-        * Dagime Gebrie: 3pm - 4pm, in-person (outside our classroom [Rubenstein 304])
-   		* Hileamlak Yitayew: 2pm - 3pm, in-person (outside our classroom [Rubenstein 304])
+        * Coming soon!
 
 * Syllabus: [syllabus.md](syllabus.md)
 * Slack: [https://code4policy.slack.com](https://code4policy.slack.com)
@@ -34,7 +33,7 @@ file | description
 
 # Week 1
 
-## Day 1 (Jan 6)
+## Day 1 (Jan 5)
 
 ### Sync
 
@@ -52,7 +51,7 @@ Video  | Reading| Coding | Project
 GitHub Intro <ul><li>[Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b06556cc-5cec-404d-9ee8-ada40121777e) or [youtube link](https://www.youtube.com/watch?v=jCwiTCP5s-4)</li><li>[modules/git/01-intro-git.md](https://github.com/code4policy/modules/tree/master/git/01-intro-git.md)</li><li>[modules/git/02-intro-github.md](https://github.com/code4policy/modules/tree/master/git/02-intro-github.md)</li></ul> | [modules/agile/06-reading.md](https://github.com/code4policy/modules/tree/master/agile/06-reading.md) | -- | Section B only: [Project Brainstorm](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md)
 
 
-## Day 2 (Jan 7)
+## Day 2 (Jan 6)
 
 ### Sync
 
@@ -69,7 +68,7 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3557fdf2-1259-47af-acff-ada40120f966), [file](https://github.com/code4policy/modules/blob/master/commandline/01-intro.md)</li><li>Filesystem [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f90a0d4-c6a8-4ebc-911b-ada40121784c), [file](https://github.com/code4policy/modules/blob/master/commandline/02-filesystem.md)</li></ul> _we will also do the assignments at the end in class!_| [modules/agile/06-reading.md](https://github.com/code4policy/modules/tree/master/agile/06-reading.md) |  [Terminus(optional)](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) | Section A: [Project self selection form](https://docs.google.com/forms/d/e/1FAIpQLSeyXkiRDGFhb38EY2fleK4epFZtHhAl1cjtjsiEKFZKpn1OKw/viewform?usp=sharing). Section B: Project Group Brainstorm
 
-## Day 3 (Jan 8)
+## Day 3 (Jan 7)
 
 ### Sync
 
@@ -86,7 +85,7 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --| -- | Finish [universe](https://classroom.github.com/a/UUVB-o8Q) and [cowsay](https://classroom.github.com/a/zbOIMr8b) assignments. | Group Meetings (decide on topic, brainstorm users, start making user stories). Start on preparing for a [storytime meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md). Start writing some draft user stories!
 
-## Day 4 (Jan 9)
+## Day 4 (Jan 8)
 
 ### Sync
 
@@ -104,7 +103,7 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --| -- | Work on [Mozilla Front-end](https://classroom.github.com/a/U9616Vbw) | Be prepared with user stories! You should have more, but you should have **one** user story to meet I-N-V-E-S-T and have a very strong definition of done that tests the "so that" clause. Have a [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. Bring a list of all your user stories sorted from large to small. Clarify/break large stories into smaller stories. **Section A: tag us in your slack channels with your user stories.**  **Section B: Submit your user stories [here](https://docs.google.com/forms/d/e/1FAIpQLSdQhJVbS45FZ29CyM9NX1BS5hn2r7pZr-t3mArkeXurhG4CrQ/viewform?usp=sharing).**  
 
-## Day 5 (Jan 10)
+## Day 5 (Jan 9)
 
 ### Sync
 
@@ -125,7 +124,7 @@ Video  | Reading| Coding | Project
 
 # Week 2
 
-## Day 6 (Jan 13)
+## Day 6 (Jan 12)
 
 ### Sync
 
@@ -143,7 +142,7 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --- | [Agile 2 reading](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md) before David Eaves| --- | Finish storytime meeting. Be ready for planning poker! Have your user stories from smallest to biggest and workshop the smallest ones with good, testable definitions of done. You can use this [bot](https://chatgpt.com/g/g-Mqs6bq2xd-definiton-of-done-bot) if it helps. 
 
-## Day 7 (Jan 14)
+## Day 7 (Jan 13)
 
 ### Sync
 
@@ -162,7 +161,7 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | -- | **Section A only:** [functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) <br> **Section B only:** finish [dataviz-with-gpt/](https://classroom.github.com/a/cCdSRlal)| Finish Sprint Review and start on Sprint 2
 
-## Day 8 (Jan 15)
+## Day 8 (Jan 14)
 
 ### Sync
 
@@ -179,7 +178,7 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | -- | <br> **Section B only:**[functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) | ---
 
-## Day 9 (Jan 16)
+## Day 9 (Jan 15)
 
 ### Sync
 
@@ -195,7 +194,7 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | --- | --- | **Section A only:** Sprint 2 Review tomorrow! <br> **Section B only** [Swartz](https://github.com/code4policy/modules/blob/master/apis/apireadings.md) Chapter 2 (p 9-13); Chapter 3 (all); Chapter 5 (p 31-36)
 
-## Day 10 (Jan 17)
+## Day 10 (Jan 16)
 
 ### Sync
 
