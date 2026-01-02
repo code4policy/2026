@@ -17,7 +17,7 @@ Class will take place in person and will be a combination of synchronous and asy
 * **Section A:** Daily Monday through Friday | 10am - 2pm Eastern Time*
 * **Section B:** Daily Monday through Friday | 4pm - 8pm Eastern Time
 
-The course is fairly demanding and should be your main commitment during the J-term. It would be difficult for example to try and take another J-term course alongside this one. Projects will be due by **Monday January 20**.
+The course is fairly demanding and should be your main commitment during the J-term. It would be difficult for example to try and take another J-term course alongside this one. Projects will be due by **Monday January 19**.
 
 Exercises will build on one another towards a final project which will be a small web application. Students will be graded on the final projects as well as daily assignments both during and after class.
 
@@ -50,7 +50,7 @@ No prior programming experience is necessary but the course will be rooted in pr
 * All of the exercises in the course will build towards the development of a project aimed at using all the skills learned in the course to deploy a small dynamic web application.
 * Projects will be done in small groups depending on the class size. Each group will be arranged into a “scrum” team.
 * Each individual’s contribution to the project can also be tracked via GitHub to ensure everyone’s participation. Both platforms will be used for project planning and execution but will also serve as a communication tool within the team and with the instructor. Groups will also communicate over Slack.
-* Projects will be due on **Jan. 20, 2025**. Students will be expected to arrange time during the days that class is not in session to work on their projects. The instructor will be available to answer questions and for technical help.
+* Projects will be due on **Jan. 19, 2025**. Students will be expected to arrange time during the days that class is not in session to work on their projects. The instructor will be available to answer questions and for technical help.
 * The project will be graded in two parts:
   
 1. **Product:** successfully deploying a web application that meets “user” needs
@@ -111,7 +111,7 @@ No prior programming experience is necessary but the course will be rooted in pr
 ## Academic Honesty
 Students are encouraged to work collaboratively and in groups. Each student’s individual work will be tracked through their commits to GitHub, participation in discussions, submissions of assignments, and through other means. Academic dishonesty will not be tolerated.
 
-## ChatGPT Policy
+## AI Policy
 Not only can you use it, you are encouraged to for all assignments other than reflections. Those should be your own genuine thoughts. You are discouraged from generating text that goes on the public-facing projects you will be building. If you do plan to generate text for this purpose, please make sure to cite it clearly and with specific instructor permission.
 
 **Note**
