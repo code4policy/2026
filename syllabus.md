@@ -2,7 +2,7 @@
 
 **Instructors:** Dhrumil Mehta <Dhrumil_Mehta@hks.harvard.edu> & Aarushi Sahejpal <asahejpal@hks.harvard.edu>
 
-**TA:** Asa Royal <asa.royal@g.harvard.edu>
+**TA:** Asa Royal <asa_royal@g.harvard.edu>
 
 **Class location**: Rubenstein 304 (HKS)
 
