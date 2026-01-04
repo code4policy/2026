@@ -25,7 +25,7 @@ Logistics
 
 # Week 1
 
-## Day 0
+## Day 0 (Jan 5)
 Like any good programmer, we start our counting with 0...
 
 file | description
@@ -33,7 +33,7 @@ file | description
 [precoursework.md](precoursework.md) | Pre-course Work
 [setup/](https://github.com/code4policy/modules/tree/master/setup) | Windows and Mac Setup
 
-## Day 1 (Jan 5)
+## Day 1 (Jan 6)
 
 ### Sync
 
