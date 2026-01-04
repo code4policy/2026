@@ -13,7 +13,13 @@ Logistics
 	* Section A: 10am - 2pm Eastern
 	* Section B: 4pm - 8pm Eastern 
 	* Office Hours:
-        * Coming soon!
+        * Asa:
+        	* Slack: Any time
+         	* In-person:
+          		* 20:00 - 21:00 every weekday.
+            	* 14:30 - 16:00 every weekday except 1/14-1/16
+             	* Probably most mornings from 9-10!
+              	* Weekends tbd!
 
 * Syllabus: [syllabus.md](syllabus.md)
 * Slack: [https://code4policy.slack.com](https://code4policy.slack.com)
