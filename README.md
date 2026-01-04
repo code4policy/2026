@@ -23,7 +23,9 @@ Logistics
 	* [Journal Entry](https://forms.gle/7WkhzUa4QLUBYpN7A)
 	* [AI Reflection](https://forms.gle/MnkWDyKw4XijY3cLA)
 
-# Day 0
+# Week 1
+
+## Day 0
 Like any good programmer, we start our counting with 0...
 
 file | description
@@ -31,3 +33,19 @@ file | description
 [precoursework.md](precoursework.md) | Pre-course Work
 [setup/](https://github.com/code4policy/modules/tree/master/setup) | Windows and Mac Setup
 
+## Day 1 (Jan 5)
+
+### Sync
+
+file | description
+-----|------------
+[Intro (slides)](https://slides.com/dhrumilmehta/hks-intro) | Introduction to the class
+[modules/agile](https://github.com/code4policy/modules/tree/master/agile) | Agile and Scrum Module
+User Stories | [Section A](https://docs.google.com/presentation/d/1WQ0lWefKmv7s85hdPIfnI_aXDscxBHPzY_IrjBPFUbc/edit#slide=id.g1ee45b6671a_2_111), [Section B](https://docs.google.com/presentation/d/1fCrK2QGIlOKwo5zkw40kNGyXmT9PkR5c5PEciVuNdLk/edit#slide=id.p)
+Zoom | Alumni Panel
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+GitHub Intro <ul><li>[Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b06556cc-5cec-404d-9ee8-ada40121777e) or [youtube link](https://www.youtube.com/watch?v=jCwiTCP5s-4)</li><li>[modules/git/01-intro-git.md](https://github.com/code4policy/modules/tree/master/git/01-intro-git.md)</li><li>[modules/git/02-intro-github.md](https://github.com/code4policy/modules/tree/master/git/02-intro-github.md)</li></ul> | [modules/agile/06-reading.md](https://github.com/code4policy/modules/tree/master/agile/06-reading.md) | -- | Section B only: [Project Brainstorm](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md)
