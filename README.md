@@ -4,6 +4,7 @@ Welcome to DPI-691M - Programming and Data for Policymakers!
 
 * Instructors: [Dhrumil Mehta](https://www.hks.harvard.edu/faculty/dhrumil-mehta) & [Aarushi Sahejpal](https://www.aarushisahejpal.com/)
 * Course Assistants: Asa Royal
+* Location: **Rubenstein 304 (HKS)**
 * Faculty Assistant: Melissa Kappotis
 
 Logistics
