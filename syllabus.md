@@ -2,6 +2,10 @@
 
 **Instructors:** Dhrumil Mehta <Dhrumil_Mehta@hks.harvard.edu> & Aarushi Sahejpal <asahejpal@hks.harvard.edu>
 
+**TA:** Asa Royal <asa_royal@g.harvard.edu>
+
+**Class location**: Rubenstein 304 (HKS)
+
 ## Course Overview
 
 Data and code are no longer just for programmers. Policymakers from members of congress to analysts and executives need to be equipped with the necessary skills to navigate government in the 21st century. This course is built with the understanding that hands-on experience with programming, data software development, and management methods, open source collaboration, and technology innovation will better prepare students to competently navigate technology projects and nuanced issues at the intersection of technology and governance than a theoretical understanding alone.
