@@ -40,7 +40,7 @@ file | description
 [precoursework.md](precoursework.md) | Pre-course Work
 [setup/](https://github.com/code4policy/modules/tree/master/setup) | Windows and Mac Setup
 
-## Day 1 (Jan 6)
+## Day 1 (Jan 5)
 
 ### Sync
 
@@ -56,7 +56,7 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 GitHub Intro <ul><li>[Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b06556cc-5cec-404d-9ee8-ada40121777e) or [youtube link](https://www.youtube.com/watch?v=jCwiTCP5s-4)</li><li>[modules/git/01-intro-git.md](https://github.com/code4policy/modules/tree/master/git/01-intro-git.md)</li><li>[modules/git/02-intro-github.md](https://github.com/code4policy/modules/tree/master/git/02-intro-github.md)</li></ul> | [modules/agile/06-reading.md](https://github.com/code4policy/modules/tree/master/agile/06-reading.md) | -- | Section A only: [City of Boston project selection](https://docs.google.com/forms/d/e/1FAIpQLSeyXkiRDGFhb38EY2fleK4epFZtHhAl1cjtjsiEKFZKpn1OKw/viewform), Section B only: [Project Brainstorm](https://github.com/code4policy/modules/blob/master/finalproject/brainstorm.md)
 
-## Day 2 (Jan 7)
+## Day 2 (Jan 6)
 
 ### Sync
 
@@ -75,7 +75,7 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3557fdf2-1259-47af-acff-ada40120f966), [file](https://github.com/code4policy/modules/blob/master/commandline/01-intro.md)</li><li>Filesystem [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f90a0d4-c6a8-4ebc-911b-ada40121784c), [file](https://github.com/code4policy/modules/blob/master/commandline/02-filesystem.md)</li></ul> _we will also do the assignments at the end in class!_| [modules/agile/06-reading.md](https://github.com/code4policy/modules/tree/master/agile/06-reading.md) |  [Terminus(optional)](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) | Section A: Prep for City of Boston meeting. Section B: Project Group Brainstorm
 
-## Day 3 (Jan 8)
+## Day 3 (Jan 7)
 
 ### Sync
 
