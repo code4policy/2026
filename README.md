@@ -65,6 +65,8 @@ file | description
 [ ]() | Standup Meeting
 [modules/git](https://github.com/code4policy/modules/tree/master/git) | Git and GitHub Overview (Lesson 1 and 2 recap)
 Bad Veggies [section-A](https://github.com/code4policy/bad-veggies-website-section-a) [section-B](https://github.com/code4policy/bad-veggies-website-section-b) | Collaborating on GitHub
+[modules/git/03-ssh](https://github.com/code4policy/modules/blob/master/git/03-ssh.md#setup) | SSH Setup
+[modules/commandline](https://github.com/code4policy/modules/tree/master/commandline) | Command Line
 
 
 ### Async
@@ -72,3 +74,18 @@ Bad Veggies [section-A](https://github.com/code4policy/bad-veggies-website-secti
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 Command Line <ul><li>Intro [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3557fdf2-1259-47af-acff-ada40120f966), [file](https://github.com/code4policy/modules/blob/master/commandline/01-intro.md)</li><li>Filesystem [Video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f90a0d4-c6a8-4ebc-911b-ada40121784c), [file](https://github.com/code4policy/modules/blob/master/commandline/02-filesystem.md)</li></ul> _we will also do the assignments at the end in class!_| [modules/agile/06-reading.md](https://github.com/code4policy/modules/tree/master/agile/06-reading.md) |  [Terminus(optional)](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) | Section A: Prep for City of Boston meeting. Section B: Project Group Brainstorm
+
+## Day 3 (Jan 8)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+**Section B:** [Brainstorm Responses](https://docs.google.com/spreadsheets/d/1g3vycc46gRx3kKI7hLJZAQ9jPr6WMHYoumzvT6X44VI/edit?usp=sharing) | **Section A:** City of Boston Meeting. **Section B:** Project Research Mingling / Assign Groups
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+--| -- | Finish [universe](https://classroom.github.com/a/UUVB-o8Q) and [cowsay](https://classroom.github.com/a/zbOIMr8b) assignments. | Group Meetings (decide on topic, brainstorm users, start making user stories). Start on preparing for a [storytime meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md). Start writing some draft user stories!
