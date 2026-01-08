@@ -91,3 +91,21 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 --| -- | Finish [universe](https://classroom.github.com/a/UUVB-o8Q) and [cowsay](https://classroom.github.com/a/zbOIMr8b) assignments. | Group Meetings (decide on topic, brainstorm users, start making user stories). Start on preparing for a [storytime meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md). Start writing some draft user stories!
+
+# Day 4 (Jan 8)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+-- | Project Time
+[modules/git](https://github.com/code4policy/modules/tree/master/git) (Lessons 4 & 5) | Git from command line
+Start on [simple-website](https://classroom.github.com/a/mwBd2mfJ) | Simple Website
+[modules/finalproject/02-storytime.md](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md)| Storytime (pick roles, start fleshing out user stories and personas, start "grooming the backlog")
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+--| -- | Work on [Mozilla Front-end](https://classroom.github.com/a/U9616Vbw) | Be prepared with user stories! You should have more, but you should have **one** user story to meet I-N-V-E-S-T and have a very strong definition of done that tests the "so that" clause. Have a [Storytime](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) meeting. Bring a list of all your user stories sorted from large to small. Clarify/break large stories into smaller stories. **Section A: tag us in your slack channels with your user stories.**  **Section B: Submit your user stories [here](https://docs.google.com/forms/d/e/1FAIpQLSdQhJVbS45FZ29CyM9NX1BS5hn2r7pZr-t3mArkeXurhG4CrQ/viewform?usp=sharing).**  
