@@ -128,3 +128,22 @@ Video  | Reading| Coding | Project
 **(optional)** Getting started with your projects [helper video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdb8fac-2798-4a3a-bf3c-ada401221b04) and [workflows file](https://github.com/code4policy/modules/blob/master/git/12-workflow.md) | Atlassian roundtable - practitioners discussing agile estimation ([youtube](https://www.youtube.com/watch?v=_N5gj9gzOjg)) | [modules/web](https://github.com/code4policy/modules/blob/master/web/04-frontend-stack.md) (Lesson 4) Addendum & Complete unfinished assignments (Python not just for unicorns, [16-22 and 24-27](https://github.com/code4policy/2025/blob/main/precoursework.md#intro-assignment), lists & dictionaries) | <ul><li>Finish [Storytime Meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) </li><li> Finish [Sprint Planning Meeting](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md)</li><li>Work on Sprint 1 (ends Tuesday)</li></ul>
 
 
+# Week 2
+
+## Day 6 (Jan 12)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting (groups)
+[modules/commandline](https://github.com/code4policy/modules/tree/main/commandline) | Command line lessons 2.5 - 4
+-- | [Sprint Review](https://github.com/code4policy/modules/blob/3e6e450ffd4af2a2525e30038527c311b742908b/finalproject/05-sprint-review.md?plain=1#L4)
+-- | [Sprint Retrospective](https://forms.gle/3ZYRRYRnzANs6NVn7)
+-- | Storytime
+
+### Async
+ 
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+--- | [Agile 2 reading](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md) before David Eaves| --- | Finish storytime meeting. Be ready for planning poker! Have your user stories from smallest to biggest and workshop the smallest ones with good, testable definitions of done. You can use this [bot](https://chatgpt.com/g/g-Mqs6bq2xd-definiton-of-done-bot) if it helps. 
