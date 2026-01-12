@@ -142,6 +142,6 @@ Project work | 1 hour
  
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
---- | [Agile 2 reading](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md) before David Eaves| --- | Focus on Projects!
+--- | [Agile 2 reading](https://github.com/code4policy/modules/blob/master/agile/07-reading2.md) before David Eaves (Thursday)| --- | Focus on Projects!
 
 
