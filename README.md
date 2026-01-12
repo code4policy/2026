@@ -127,7 +127,7 @@ Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 **(optional)** Getting started with your projects [helper video](https://harvard.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1fdb8fac-2798-4a3a-bf3c-ada401221b04) and [workflows file](https://github.com/code4policy/modules/blob/master/git/12-workflow.md) | Atlassian roundtable - practitioners discussing agile estimation ([youtube](https://www.youtube.com/watch?v=_N5gj9gzOjg)) | [modules/web](https://github.com/code4policy/modules/blob/master/web/04-frontend-stack.md) (Lesson 4) Addendum & Complete unfinished assignments (Python not just for unicorns, [16-22 and 24-27](https://github.com/code4policy/2025/blob/main/precoursework.md#intro-assignment), lists & dictionaries) | <ul><li>Finish [Storytime Meeting](https://github.com/code4policy/modules/blob/master/finalproject/02-storytime.md) </li><li> Finish [Sprint Planning Meeting](https://github.com/code4policy/modules/blob/master/finalproject/03-sprint-planning.md)</li><li>Work on Sprint 1 (ends Tuesday)</li></ul>
 
-## Day 6 (Jan 13)
+## Day 6 (Jan 12)
 
 ### Sync
 
