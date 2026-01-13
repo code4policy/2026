@@ -152,7 +152,6 @@ Video  | Reading| Coding | Project
 file | description
 -----|------------
 [ ]() | Standup Meeting (groups)
-[]() | Planning Poker
 [David Z](https://en.wikipedia.org/wiki/V._David_Zvenyach) | Guest Speaker!
 [Sprint Review](https://github.com/code4policy/modules/blob/3e6e450ffd4af2a2525e30038527c311b742908b/finalproject/05-sprint-review.md?plain=1#L4)
 -- | [Sprint Retrospective](https://forms.gle/3ZYRRYRnzANs6NVn7)
