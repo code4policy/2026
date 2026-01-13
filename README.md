@@ -161,4 +161,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | -- | [functions](https://classroom.github.com/a/HZgvwQv-)| Finish Sprint Review and start on Sprint 2
+-- | -- | Read about [functions](https://github.com/code4policy/modules/blob/master/codeconcepts/function.md). Then, complete the [functions](https://classroom.github.com/a/HZgvwQv-) assignment| Finish Sprint Review and start on Sprint 2
