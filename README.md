@@ -181,4 +181,4 @@ file | description
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
-| Healthcare.gov case [in slack] + Atlantic [reading](https://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/)
+-- | Healthcare.gov case [in slack] + Atlantic [reading](https://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/)
