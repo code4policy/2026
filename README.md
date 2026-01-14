@@ -169,13 +169,15 @@ Video  | Reading| Coding | Project
 
 file | description
 -----|------------
--- | Section A: Python set up
-[web-presentation](https://docs.google.com/presentation/d/1xyyydINQnqrzJBb5F7ra9hxZmASRwJvKVNccuD8PY04/edit?usp=sharing), [modules/web](https://github.com/code4policy/modules/tree/master/web), [web exercise](https://docs.google.com/presentation/d/1fauWa_o6BNNambjCKHGwGH-ek8GYLs1BiPRijpqOrc4/edit?usp=sharing) | Web
--- | Section A: City of Boston Meeting @ 12 pm 
-[chart-example](https://classroom.github.com/a/bQtaBFMS) | Chart Example
+[ ]() | Standup Meeting (groups)
+[]() | Planning Poker
+[Asad Ramzanali](https://www.vanderbilt.edu/vanderbilt-policy-accelerator/asad-ramzanali/s) | Guest Speaker @ 4:30 pm!
+[Principles of DataViz](https://docs.google.com/presentation/d/1wiYI-AoTEzTaDuKFjkRNfrqghuDWTBA5GJIho0aEhfU/edit#slide=id.g2884ecb684e_2_174) | Dhrumil's DataViz Slides + Rubric
+[modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization Examples
+[dataviz-with-gpt/](https://classroom.github.com/a/cCdSRlal)| Dataviz with ChatGPT
 
 ### Async
 
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
--- | -- | <br> **Section B only:**[functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) | ---
+| Healthcare.gov case [in slack] + Atlantic [reading](https://www.theatlantic.com/technology/archive/2015/07/the-secret-startup-saved-healthcare-gov-the-worst-website-in-america/397784/)
