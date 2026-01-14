@@ -171,7 +171,7 @@ file | description
 -----|------------
 [ ]() | Standup Meeting (groups)
 []() | Planning Poker
-[Asad Ramzanali](https://www.vanderbilt.edu/vanderbilt-policy-accelerator/asad-ramzanali/s) | Guest Speaker @ 4:30 pm!
+[Asad Ramzanali](https://www.vanderbilt.edu/vanderbilt-policy-accelerator/asad-ramzanali/s) | Section B: Guest Speaker @ 4:30 pm!
 [Principles of DataViz](https://docs.google.com/presentation/d/1wiYI-AoTEzTaDuKFjkRNfrqghuDWTBA5GJIho0aEhfU/edit#slide=id.g2884ecb684e_2_174) | Dhrumil's DataViz Slides + Rubric
 [modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization Examples
 [dataviz-with-gpt/](https://classroom.github.com/a/cCdSRlal)| Dataviz with ChatGPT
