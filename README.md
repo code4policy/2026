@@ -175,7 +175,7 @@ file | description
 [Principles of DataViz](https://docs.google.com/presentation/d/1wiYI-AoTEzTaDuKFjkRNfrqghuDWTBA5GJIho0aEhfU/edit#slide=id.g2884ecb684e_2_174) | Dhrumil's DataViz Slides + Rubric
 | Vibe Coding
 [modules/web/05-visualization.md](https://github.com/code4policy/modules/blob/master/web/05-visualization.md) | D3.js Visualization Examples
-[dataviz-with-gpt/](https://classroom.github.com/a/cCdSRlal)| Dataviz with ChatGPT
+[dataviz-with-gpt/](https://classroom.github.com/a/yE9Ul5Xx)| Dataviz with ChatGPT
 
 ### Async
 
