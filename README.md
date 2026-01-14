@@ -162,3 +162,20 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | -- | Read about [functions](https://github.com/code4policy/modules/blob/master/codeconcepts/function.md). Then, complete the [functions](https://classroom.github.com/a/HZgvwQv-) assignment| Finish Sprint Review and start on Sprint 2
+
+## Day 8 (Jan 14)
+
+### Sync
+
+file | description
+-----|------------
+-- | Section A: Python set up
+[web-presentation](https://docs.google.com/presentation/d/1xyyydINQnqrzJBb5F7ra9hxZmASRwJvKVNccuD8PY04/edit?usp=sharing), [modules/web](https://github.com/code4policy/modules/tree/master/web), [web exercise](https://docs.google.com/presentation/d/1fauWa_o6BNNambjCKHGwGH-ek8GYLs1BiPRijpqOrc4/edit?usp=sharing) | Web
+-- | Section A: City of Boston Meeting @ 12 pm 
+[chart-example](https://classroom.github.com/a/bQtaBFMS) | Chart Example
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | -- | <br> **Section B only:**[functions](https://classroom.github.com/assignment-invitations/e480771357ec3845573c538b540af6c6) | ---
