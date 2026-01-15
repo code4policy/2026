@@ -6,6 +6,8 @@ Welcome to Programming and Data for Policymakers! We're excited that you've chos
 2. Join the class [Slack](https://join.slack.com/t/code4policy/signup) chat.
 
 If you're new to programming, it is **highly recommended that you start on the intro assignment** (see below) before the course starts. Please also see the required course materials in the "Additional Course Materials" section below.
+
+**Also, please back up your computer before you begin class! It's generally a good practice, and we'll be installing lots of new tools on your computer.**
 	
 ## Intro Assignment
 
@@ -28,7 +30,6 @@ We'd like if all of the Chapters are completed by the start of class. **Completi
 > The goal, for now, is not mastery, but familiarity.
 
 If you have any questions or concerns, feel free to message the `#help` channel in the class Slack! 
-
 
 ## Additional Course Materials
 
