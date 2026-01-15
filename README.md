@@ -190,7 +190,7 @@ Video  | Reading| Coding | Project
 file | description
 -----|------------
 [ ]() | Standup Meeting
-[modules/data](https://github.com/code4policy/modules/tree/main/data) | Data in Python
+[https://github.com/code4policy/modules/tree/master/web] | Web
 [modules/scraping](https://github.com/code4policy/modules/blob/master/web/07-scraping.md) | scraping
 
 ### Async
