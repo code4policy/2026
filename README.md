@@ -198,3 +198,23 @@ file | description
 Video  | Reading| Coding | Project
 -------|-------|-------|-------|
 -- | --- | --- | **Section A only:** Sprint 2 Review tomorrow! <br> **Section B only** [Swartz](https://github.com/code4policy/modules/blob/master/apis/apireadings.md) Chapter 2 (p 9-13); Chapter 3 (all); Chapter 5 (p 31-36)
+
+## Day 10 (Jan 16)
+
+### Sync
+
+file | description
+-----|------------
+[ ]() | Standup Meeting
+[]() | [Sprint Retrospective](https://docs.google.com/forms/d/e/1FAIpQLScqZPQtdVDa59zqL5IbCnhCKilzCNdqK9mKDif9Z2xZH_by8w/viewform)
+[modules/security](https://github.com/code4policy/modules/tree/master/security)| Encryption 
+-- | Section A: Sprint Review 2
+[API](https://github.com/code4policy/modules/tree/master/apis) | API
+[web/10-goodbye.md](https://github.com/code4policy/modules/blob/main/web/10-goodbye.md) | Wrapping up!
+
+
+### Async
+
+Video  | Reading| Coding | Project
+-------|-------|-------|-------|
+-- | [Course Evaluations!](https://canvas.harvard.edu/) (on the canvas page for this class) | -- |  Don't forget to fill out a [Sprint Retrospective](https://docs.google.com/forms/d/e/1FAIpQLScqZPQtdVDa59zqL5IbCnhCKilzCNdqK9mKDif9Z2xZH_by8w/viewform) and any final reflection forms you'd like. Here are the final [submission guidelines](https://github.com/code4policy/modules/blob/master/finalproject/submission.md) and broader project [info](https://github.com/code4policy/modules/blob/master/finalproject/project.md)
