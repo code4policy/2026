@@ -207,7 +207,6 @@ file | description
 -----|------------
 [ ]() | Standup Meeting
 []() | [Sprint Retrospective](https://docs.google.com/forms/d/e/1FAIpQLScqZPQtdVDa59zqL5IbCnhCKilzCNdqK9mKDif9Z2xZH_by8w/viewform)
-[modules/security](https://github.com/code4policy/modules/tree/master/security)| Encryption 
 -- | Section A: Sprint Review 2
 [API](https://github.com/code4policy/modules/tree/master/apis) | API
 [web/10-goodbye.md](https://github.com/code4policy/modules/blob/main/web/10-goodbye.md) | Wrapping up!
